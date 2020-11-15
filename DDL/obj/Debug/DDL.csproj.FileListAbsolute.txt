@@ -1,0 +1,12 @@
+D:\TERM\inTerm\kargah\2\DDL\DDL\bin\Debug\DDL.exe.config
+D:\TERM\inTerm\kargah\2\DDL\DDL\bin\Debug\DDL.exe
+D:\TERM\inTerm\kargah\2\DDL\DDL\bin\Debug\DDL.pdb
+D:\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.csprojResolveAssemblyReference.cache
+D:\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.Form1.resources
+D:\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.Properties.Resources.resources
+D:\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.csproj.GenerateResource.Cache
+D:\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.exe
+D:\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.pdb
+I:\A\PC\D\TERM\inTerm\kargah\2\DDL\DDL\bin\Debug\DDL.exe.config
+I:\A\PC\D\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.exe
+I:\A\PC\D\TERM\inTerm\kargah\2\DDL\DDL\obj\Debug\DDL.pdb
